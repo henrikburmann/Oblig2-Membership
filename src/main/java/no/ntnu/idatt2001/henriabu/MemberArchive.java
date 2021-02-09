@@ -2,7 +2,6 @@ package no.ntnu.idatt2001.henriabu;
 
 import java.time.LocalDate;
 import java.util.HashMap;
-import java.util.Map;
 
 /**
  * The member archive holds all the bonus members. The archive provides
