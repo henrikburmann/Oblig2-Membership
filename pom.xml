@@ -28,7 +28,7 @@
                             <!--Overstyrer konfigurasjon med å legge til et manifest,
                             manifestet forteller "Hvor er mainklassen"-->
                             <addClasspath>true</addClasspath>
-                            <mainClass>no.ntnu.idatt2001.henriabu.MemberArchiveClient</mainClass>
+                            <mainClass>no.ntnu.idatt2001.henriabu.henriabu.MemberArchiveClient</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

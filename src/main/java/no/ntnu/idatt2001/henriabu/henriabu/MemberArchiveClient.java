@@ -1,4 +1,4 @@
-package no.ntnu.idatt2001.henriabu;
+package no.ntnu.idatt2001.henriabu.henriabu;
 
 /**
  * A simple client program to test the functionality of the
@@ -32,6 +32,5 @@ public class MemberArchiveClient {
 
         System.out.println("Now lets see the register:\n");
         memberArchive.listAllMembers();
-
     }
 }

@@ -1,4 +1,4 @@
-package no.ntnu.idatt2001.henriabu;
+package no.ntnu.idatt2001.henriabu.henriabu;
 
 public abstract class Membership {
 

@@ -1,4 +1,4 @@
-package no.ntnu.idatt2001.henriabu;
+package no.ntnu.idatt2001.henriabu.henriabu;
 
 public class GoldMemberShip extends Membership {
     private final float POINTS_SCALING_FACTOR_LEVEL_1 = 1.3f;
